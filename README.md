@@ -1,4 +1,4 @@
-# Daz-to-Houdini Processing Tools
+# Daz Studio to Houdini Processing Tools
 ![DazHouHeader](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/github_header.png)
 
 ## Overview
