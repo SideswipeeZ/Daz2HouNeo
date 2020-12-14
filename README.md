@@ -4,7 +4,6 @@
 ## Overview
 The **Daz2Houdini Neo** Processing Tool is made to help Import Daz3D FBX exports, into Houdini and to prepare shaders/rops/lights/animation. (As Of **VER:01.00**: Only Supports Arnold for Shaders and ROPs.)
 
-![DazUIWindow](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/mainmenuui.png)
 
 # Contents
  [Installation](#installation)
@@ -48,6 +47,8 @@ Please Copy the ***Daz3DLogo.json*** file to **{HOUDINI_INSTALL_LOCATION}\houdin
 
 # Functions
 **The majority of the tool works by first Selecting a Node from the Network View and then, Interacting with the UI Window.**
+
+![DazUIWindow](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/mainmenuui.png)
 
 The Main Menu Window 'floats' in a smaller version while a child window is spawned. To open the Main Menu Window again to its larger size, there is a Expand menu bar that is visible on mouse over. Please note that you can open all three working windows at once and that **Closing the Main menu will also close all child windows.**
 
