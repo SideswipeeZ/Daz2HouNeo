@@ -23,7 +23,7 @@ The **Daz2Houdini Neo** Processing Tool is made to help Import Daz3D FBX exports
 
 ## Requirements
 VER:01.00 Modules:
-*	**Qt**
+*	[**Qt**](https://github.com/mottosso/Qt.py)
 *	**PIL**
 
 This Python Tool was written for use with Python 2.7 in Houdini however it should be Python 3 safe.
