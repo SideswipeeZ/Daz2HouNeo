@@ -59,22 +59,22 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 ## Geometry
 
 *  **Import FBX** 
-		* Import an FBX to Subnet into OBJ Level.
+	* Import an FBX to Subnet into OBJ Level.
 *  **Create GEO from Subnet**
-		* Creates a new GEO Node into OBJ Level from the Subnet Selected.
-		* **Node Structure:**
-		*  - OBJ MERGE  (Per Geo Object in Subnet)
-		* - MATERIAL SOP (Per Geo Object in Subnet)
-		* - MERGE (Master Merge)
-		* - NULL (OUTPUT_NULL)
+	* Creates a new GEO Node into OBJ Level from the Subnet Selected.
+	* **Node Structure:**
+	*  - OBJ MERGE  (Per Geo Object in Subnet)
+	* - MATERIAL SOP (Per Geo Object in Subnet)
+	* - MERGE (Master Merge)
+	* - NULL (OUTPUT_NULL)
 *  **Scale Geometry/Subnet**
-		*  **1.0** - Set Uniform Scale of SOP to this Value 
-		* **0.1** - Set Uniform Scale of SOP to this Value 
-		*  **0.01** - Set Uniform Scale of SOP to this Value 
+	*  **1.0** - Set Uniform Scale of SOP to this Value 
+	* **0.1** - Set Uniform Scale of SOP to this Value 
+	*  **0.01** - Set Uniform Scale of SOP to this Value 
 
 * **Preview Subnet** *(Ui Change Occurs)*
-		* Switches to another page on UI.
-		*  Shows All geometry nodes inside of a Subnet selected.
+	* Switches to another page on UI.
+	*  Shows All geometry nodes inside of a Subnet selected.
 
 *	**Experimental Tools** *(Ui Change Occurs)*
 *	**Create Hair Groom Geo (VDB+Density)***
@@ -99,7 +99,7 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 	
 * **Texture Map Menu** *(Ui Change Occurs)*
 	* *This Is a Tool that allows the quick assignment to Image Node inside of an Arnold Shader.*
-	* 
+	
 	* **Select Arnold Shader:**
 		* The Selected Arnold Shader If contains an Image Node, Will load all found Image Nodes into the Table.
 	* **Load Directory Textures:**
