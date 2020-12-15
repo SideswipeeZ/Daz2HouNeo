@@ -7,7 +7,7 @@ The **Daz2Houdini Neo** Processing Tool is made to help Import Daz3D FBX exports
 
 # Contents
  [Installation](#installation)
- * [Node Shape Install](#installation)
+ * [Node Shape Install](#install-the-node-shape-optional)
 
  [Requirements](#requirements)
 * [Application Functions](#functions)
