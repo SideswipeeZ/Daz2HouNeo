@@ -58,6 +58,8 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 
 ## Geometry
 
+![geoui](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/geoui.png)
+
 *  **Import FBX** 
 	* Import an FBX to Subnet into OBJ Level.
 *  **Create GEO from Subnet**
@@ -89,6 +91,9 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 *(  * Asterisk Objects are Experimental)*
 
 ## Shader
+
+![shopui](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/shopui.png)
+
 * **Convert to Arnold Material**
 	* Selectable Nodes Include: Subnet, Geometry, Material SOP.
 	* Converts the Selected Node to check for materials SOPs inside and convert them to Arnold Materials in SHOP level.
@@ -113,6 +118,9 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 		*	*NOTE: Paths are **NOT** relative as of VER:01.00*
 
 ##  Render
+
+![ropui](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/ropui.png)
+
 ### Create Lights
 *	**Create Arnold Lights Menu:** *(Ui Change Occurs)*
 	*	Each Button Creates an Arnold Light at OBJ Level with a unqiue name based on the Light Type shown on the Button.
