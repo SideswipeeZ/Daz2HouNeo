@@ -31,7 +31,7 @@ This Python Tool was written for use with Python 2.7 in Houdini however it shoul
 Tested on Windows OS.
 ## Manual Install
 Copy the Folder ***Daz2HouNeo*** to **/Documents/Houdini{Houdini_Version}/python2.7libs**. Please also place Qt Module here.
-Change Path in **mainWindow.py** to the root of the ***Daz2HoudiniNeo*** Folder.
+Change Path in **mainWindow.py** to the root of the ***Daz2HouNeo*** Folder.
 In Houdini, Create a New Shelf Tool with the following code in the script section.
 ```
 from Daz2HouNeo import mainWindow
