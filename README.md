@@ -26,6 +26,8 @@ VER:01.00 Modules:
 *	[**Qt**](https://github.com/mottosso/Qt.py)
 *	**PIL**
 
+*Note PIL is included with Houdini 18 and 18.5. (Tested)*
+
 This Python Tool was written for use with Python 2.7 in Houdini however it should be Python 3 safe.
 # Installation
 Tested on Windows OS.
@@ -64,6 +66,7 @@ All Child Windows are configured to be resizeable with minumum size contraints t
 	* Import an FBX to Subnet into OBJ Level.
 *  **Create GEO from Subnet**
 	* Creates a new GEO Node into OBJ Level from the Subnet Selected.
+	
 	* **Node Structure:**
 	*  - OBJ MERGE  (Per Geo Object in Subnet)
 	* - MATERIAL SOP (Per Geo Object in Subnet)
