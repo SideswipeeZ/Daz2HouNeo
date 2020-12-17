@@ -27,6 +27,7 @@ VER:01.00 Modules:
 *	**PIL**
 
 *Note PIL is included with Houdini 18 and 18.5. (Tested)*
+*Qt Module is auto installed using the Windows Installer.*
 
 This Python Tool was written for use with Python 2.7 in Houdini however it should be Python 3 safe.
 # Installation
