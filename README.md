@@ -45,6 +45,9 @@ mainWin.resize(361,520)
 mainWin.show()
  ```
 ## Windows OS Easy Installer.
+
+![InstallerUi](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/InstallerUI.png)
+
 Use the Provided Program to allow the program to auto install the files to local system. Please Follow the instruction on the Program.
 ## Install the Node Shape. *(optional)*
 Please Copy the ***Daz3DLogo.json*** file to **{HOUDINI_INSTALL_LOCATION}\houdini\config\NodeShapes** This is optional to get the Daz Logo nodeshape for easy location of networks create by the tool.
