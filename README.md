@@ -48,7 +48,7 @@ mainWin.show()
 
 ![InstallerUi](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/InstallerUI.png)
 
-*Note: Qt Module is auto-insatalled if not detected in installation folder.*
+*Note: Qt Module is auto-installed if not detected in installation folder.*
 
 Use the Provided Program to allow the program to auto install the files to local system. Please Follow the instruction on the Program.
 ## Install the Node Shape. *(optional)*
