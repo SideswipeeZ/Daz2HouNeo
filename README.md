@@ -4,6 +4,9 @@
 ## Overview
 The **Daz2Houdini Neo** Processing Tool is made to help Import Daz3D FBX exports, into Houdini and to prepare shaders/rops/lights/animation. (As Of **VER:01.00**: Only Supports Arnold for Shaders and ROPs.)
 
+### Quickstart
+
+You can follow this link for a quickstart guide.( https://echopraxia.co.uk/blog/daz-studio-daz3d-to-houdini-arnold )
 
 # Contents
  [Installation](#installation)
