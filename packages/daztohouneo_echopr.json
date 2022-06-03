@@ -1,0 +1,20 @@
+{
+    "enable" : true,
+    "env": 
+    [
+    	{
+    		"HOUDINI_PATH" :
+    		{
+                "value": "$HOUDINI_PACKAGE_PATH/../echopr/Daz2HouNeo",
+        	},
+            "Daz2HouNeo_echopr_PATH" :
+            {
+                "value": "$HOUDINI_PACKAGE_PATH/../echopr/Daz2HouNeo",
+            },
+			"PYTHONPATH" :
+			{
+				"value": "$HOUDINI_PACKAGE_PATH/../echopr/Daz2HouNeo/python",
+			}
+    	}
+    ]
+}

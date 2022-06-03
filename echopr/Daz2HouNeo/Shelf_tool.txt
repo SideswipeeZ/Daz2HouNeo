@@ -1,0 +1,11 @@
+Script:
+import mainWindow
+
+mainWin = mainWindow.H2Dz()
+mainWin.resize(361,520)
+mainWin.show()
+
+Options:
+Name : Daz2Hou_Neo
+Label: Daz 2 Houdini Neo
+Icon : $Daz2HouNeo_echopr_PATH\Assets\daz_ico_64.png
