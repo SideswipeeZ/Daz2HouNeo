@@ -29,24 +29,31 @@ VER:01.00 Modules:
 *	[**Qt**](https://github.com/mottosso/Qt.py)
 *	**PIL**
 
-*Note PIL is included with Houdini 18 and 18.5. (Tested)*
+*Note PIL is included with Houdini 18/18.5 and 19 (Python2 and Python3). (Tested)*
 
-*Qt Module is auto installed using the Windows Installer.*
+*Qt Module is included.*
 
-This Python Tool was written for use with Python 2.7 in Houdini however it should be Python 3 safe.
+This Python Tool was written for use with Python 2.7 in Houdini however it should be Python 3 safe with Houdini 19 Builds.
 # Installation
 Tested on Windows OS.
 ## Manual Install
-Copy the Folder ***Daz2HouNeo*** to **/Documents/Houdini{Houdini_Version}/python2.7libs**. Please also place Qt Module here.
-Change Path in **mainWindow.py** to the root of the ***Daz2HouNeo*** Folder.
+Download the repo and then;
+Copy the Folders ***echopr*** and ***packages*** to **/Documents/Houdini{Houdini_Version}** (example, Documents/Houdini19.0) .
 In Houdini, Create a New Shelf Tool with the following code in the script section.
 ```
-from Daz2HouNeo import mainWindow
+import mainWindow
 
 mainWin = mainWindow.H2Dz()
 mainWin.resize(361,520)
 mainWin.show()
+
  ```
+Options:
+Name : Daz2Hou_Neo
+Label: Daz 2 Houdini Neo
+Icon : $Daz2HouNeo_echopr_PATH\Assets\daz_ico_64.png
+
+
 ## Windows OS Easy Installer.
 
 ![InstallerUi](https://github.com/SideswipeeZ/Daz2HouNeo/blob/main/git/InstallerUI.png)
